@@ -1,0 +1,16 @@
+venv/
+venvp/
+data/
+.idea/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+local_settings.py
+*.sqlite3
+*.sqlite3-journal
+
+scratch.py
